@@ -1,0 +1,6 @@
+colorama==0.4.6
+cryptography==41.0.3
+netifaces==0.11.0
+scapy==2.5.0
+secret==0.8
+sympy==1.12
